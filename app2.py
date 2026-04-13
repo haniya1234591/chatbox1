@@ -3,7 +3,7 @@ from groq import Groq
 import pdfplumber
 
 
-client = Groq(api_key="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")
+client = Groq(api_key="API_KEY")
 
 st.title("Personal AI Assistant")
 
